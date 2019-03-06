@@ -1,6 +1,7 @@
-# Hello
+# Steve's World 
 
 ## Welcome to my site
 
-This is wonderful stuff
+This is wonderful stuff. Go to [CNN](http://www.cnn.com)
+
  
